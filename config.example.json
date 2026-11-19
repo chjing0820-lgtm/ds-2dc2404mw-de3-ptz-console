@@ -1,0 +1,26 @@
+{
+  "device": {
+    "ip": "192.168.1.64",
+    "port": 80,
+    "user": "admin",
+    "password": "",
+    "channel": 1,
+    "stream": "main"
+  },
+  "ptz": {
+    "speed": 40,
+    "invert_pan": false,
+    "invert_tilt": false
+  },
+  "video": {
+    "low_latency": true,
+    "preview_width": 900,
+    "preview_fps": 16,
+    "flip": "none",
+    "stamp": true
+  },
+  "server": {
+    "host": "127.0.0.1",
+    "port": 8765
+  }
+}
